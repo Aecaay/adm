@@ -10,6 +10,7 @@ int doy(int c);
 
 int main(int argc , char  const *argv[])
 {
+		system("clear");
 		int ant;
 		ant=coose();
 		return  0;
